@@ -1,0 +1,12 @@
+title: Coffee Hmm
+email: coffeehmm.official2021@gmail.com
+description: >-
+  서울 카페 가이드 커피 흠 :)
+baseurl: ""
+url: ""
+github_username: hmm-team
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
